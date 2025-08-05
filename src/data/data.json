@@ -1,0 +1,242 @@
+{
+  "language": {
+    "tamil": {
+      "title": "மாநில ஒருங்கிணைப்பாளர்கள்  ",
+      "title2": "பாசறைகளுக்கான மாநில பொறுப்பாளர்கள்  ",
+      "headers": ["பொருப்பு", "உறுப்பினர் எண்", "பெயர்", "தொலைபேசி எண்", "வாக்காளர் அடையாள எண்", "வாக்கு எண்ணிக்கை", "குடிப்பெயர்", "திருத்து"],
+      "edit": "திருத்து",
+      "delete": "நீக்கு",
+      "addNew": "புதிய பொறுப்பாளர் [+]",
+      "districtTitle": "<வருவாய் மாவட்டம் பெயர் <சட்டமன்ற தொகுதி பெயர்> மண்டலத்திற்கான மாவட்டக் கட்டமைப்பு",
+      "totalVotes": "மொத்த வாக்குகள்",
+      "districtCount": "கட்ட மண்டலங்கள்",
+      "subdivisionPlaceholder": "கட்ட மண்டல பெயர்",
+      "votesLabel": "வாக்குகள்",
+       "table6Title": "பட்டியல் தயார்  செய்தவர்கள் விவரம்",
+      "save": "சேமி",
+      "cancel": "நிராகரி",
+      "submitApproval": "ஒப்புதலுக்கு அனுப்பு"
+    },
+    "english": {
+      "title": "LIST OF STATE OFFICERS",
+      "title2": "STATE OFFICIALS IN CHARGE OF BARRACKS",
+      "headers": ["Role", "Member ID", "Name", "Phone Number", "Voter ID", "Votes", "Surname", "Action"],
+      "edit": "Edit",
+      "delete": "Delete",
+      "addNew": "Add New Member [+]",
+      "districtTitle": "<Revenue District Name <Assembly Constituency Name> District Subdivision Structure",
+      "totalVotes": "Total Votes",
+      "districtCount": "Subdivisions",
+      "subdivisionPlaceholder": "Subdivision Name",
+      "votesLabel": "Votes",
+       "table6Title": "List Preparation Officers Details",
+      "save": "Save",
+      "cancel": "Cancel",
+      "submitApproval": "Submit for Approval"
+    }
+  },
+  "members": [
+    {
+      "role": "மாநில ஒருங்கிணைப்பாளர்",
+      "memberId": "14543545555",
+      "name": "செ.தமிழ்ச்செல்வன்",
+      "phone": "7889652315",
+      "voterId": "IXT234567",
+      "votes": 245,
+      "alias": "குடிப்பெயர்"
+    }
+  ],
+  
+  "membersTable3": [
+    {
+      "role": "மன்டலச் செயலாளர்",
+      "memberId": "44543545555",
+      "name": "கு.அரசேந்திரன் ",
+      "phone": "9989652315",
+      "voterId": "BXT234567",
+      "votes": 27,
+      "alias": "குடிப்பெயர்"
+    },
+    {
+      "role": "மண்டலச் செயலாளர்",
+      "memberId": "12543545555",
+      "name": "ம.செந்தாழினி",
+      "phone": "7234552315",
+      "voterId": "BXT234568",
+      "votes": 39,
+      "alias": "குடிப்பெயர்"
+    } 
+  ],
+  "membersTable5": [
+    {
+      "role": "தலைவர்",
+      "memberId": "44543545555",
+      "name": " அ.குமரன்  ",
+      "phone": "9989652315",
+      "voterId": "BXT234567",
+      "votes": 27,
+      "alias": "குடிப்பெயர்"
+    },
+    {
+      "role": "செயலாளர் ",
+      "memberId": "12543545555",
+      "name": "வி.மதன் ",
+      "phone": "72389652315",
+      "voterId": "BXT234567",
+      "votes": 39,
+      "alias": "குடிப்பெயர்"
+    },
+    {
+      "role": "பொருளாளர் ",
+      "memberId": "44543545555",
+      "name": "அ.மணி  ",
+      "phone": "3234552315",
+      "voterId": "BXT234567",
+      "votes": 123,
+      "alias": "குடிப்பெயர்"
+    },
+    {
+      "role": "செய்தித் தொடர்பாளர் ",
+      "memberId": "57543545555",
+      "name": "த.கார்த்தி  ",
+      "phone": "3234552315",
+      "voterId": "BXT234567",
+      "votes": 135,
+      "alias": "குடிப்பெயர்"
+    }
+  ],
+  "membersTable5sub": [
+    
+    {
+      "role": "செயலாளர் ",
+      "memberId": "14543545555",
+      "name": " ப.அகரன்  ",
+      "phone": "7889652315",
+      "voterId": "BXT234567",
+      "votes": 39,
+      "alias": "குடிப்பெயர்"
+    },
+    {
+      "role": "இணைச்செயளாலர்  ",
+      "memberId": "14543545555",
+      "name": "க.நிலவன்  ",
+      "phone": "7889652315",
+      "voterId": "BXT234567",
+      "votes": 123,
+      "alias": "குடிப்பெயர்"
+    },
+    {
+      "role": "துணைச்செயளாலர் ",
+      "memberId": "14543545555",
+      "name": "சா.சீரன்  ",
+      "phone": "7889652315",
+      "voterId": "BXT234567",
+      "votes": 135,
+      "alias": "குடிப்பெயர்"
+    }
+  ],
+   "membersTable7": [
+    {
+      "role": " மேலிடப்  பார்வையாளர் 01",
+      "inputValue": "452147987521",
+      "description": " மே.ஏழுமலை, மாநில ஒருங்கிணைப்பாளர்"
+    },
+    {
+      "role": " மேலிடப்  பார்வையாளர் 02",
+      "inputValue": "452147987521",
+      "description": "ப.செழியன், இளைஞர் பாசறை மாநில ஒருங்கிணைப்பாளர்"
+    },
+    {
+      "role": "மாநில/மண்டலப் பொறுப்பாளர் 01",
+      "inputValue": "232147987521",
+      "description": "த.கன்னன், மாநில ஒருங்கிணைப்பாளர்"
+    },
+    {
+      "role": "மாநில/மண்டலப் பொறுப்பாளர் 02",
+      "inputValue": "232147987521",
+      "description": "ஏ.குமரன், மண்டலச் செயலாளர்"
+    },
+    {
+      "role": "பதிவேற்றியவர் 01",
+      "inputValue": "452147987521",
+      "description": "ந.அகிலன்,  த.தொ.பா. மாநில துனைச் செயலாளர் "
+    },
+    {
+      "role": "பதிவேற்றியவர் 02",
+      "inputValue": "452147987521",
+      "description": "அ.யாழினி , மகளிர் பாசறை மாநில ஒருங்கிணைப்பாளர்"
+    }
+  ],
+  "districts": [
+    {
+      "id": 1,
+      "districtNameTa": "<வருவாய் மாவட்டம் பெயர்> <சட்டமன்ற தொகுதி பெயர்>",
+      "districtNameEn": "<Revenue District Name> <Assembly Constituency Name>",
+      "subdivisionName": " கிழக்கு ",
+      "votes": 33
+    },
+    {
+      "id": 2,
+      "districtNameTa": "<வருவாய் மாவட்டம் பெயர் <சட்டமன்ற தொகுதி பெயர்>",
+      "districtNameEn": "<Revenue District Name <Assembly Constituency Name>",
+      "subdivisionName": "திருவாலங்காடு மேற்கு",
+      "votes": 31
+    },
+    {
+      "id": 3,
+      "districtNameTa": "<வருவாய் மாவட்டம் பெயர்> <சட்டமன்ற தொகுதி பெயர்>",
+      "districtNameEn": "<Revenue District Name> <Assembly Constituency Name>",
+      "subdivisionName": "3 ஆவது ",
+      "votes": 32
+    },
+    {
+      "id": 4,
+      "districtNameTa": "<வருவாய் மாவட்டம் பெயர்> <சட்டமன்ற தொகுதி பெயர்>",
+      "districtNameEn": "<Revenue District Name> <Assembly Constituency Name>",
+      "subdivisionName": "தெற்கு",
+      "votes": 28
+    },
+    {
+      "id": 5,
+      "districtNameTa": "<வருவாய் மாவட்டம் பெயர்> <சட்டமன்ற தொகுதி பெயர்>",
+      "districtNameEn": "<Revenue District Name> <Assembly Constituency Name>",
+      "subdivisionName": "வடகிழக்கு",
+      "votes": 30
+    },
+    {
+      "id": 6,
+      "districtNameTa": "<வருவாய் மாவட்டம் பெயர்> <சட்டமன்ற தொகுதி பெயர்>",
+      "districtNameEn": "<Revenue District Name> <Assembly Constituency Name>",
+      "subdivisionName": "நகர ",
+      "votes": 28
+    },
+    {
+      "id": 7,
+      "districtNameTa": "<வருவாய் மாவட்டம் பெயர்> <சட்டமன்ற தொகுதி பெயர்>",
+      "districtNameEn": "<Revenue District Name> <Assembly Constituency Name>",
+      "subdivisionName": "வடக்கு ",
+      "votes": 30
+    },
+    {
+      "id": 8,
+      "districtNameTa": "<வருவாய் மாவட்டம் பெயர்> <சட்டமன்ற தொகுதி பெயர்>",
+      "districtNameEn": "<Revenue District Name> <Assembly Constituency Name>",
+      "subdivisionName": "வடமேற்கு ",
+      "votes": 29
+    },
+    {
+      "id": 9,
+      "districtNameTa": "<வருவாய் மாவட்டம் பெயர்> <சட்டமன்ற தொகுதி பெயர்>",
+      "districtNameEn": "<Revenue District Name> <Assembly Constituency Name>",
+      "subdivisionName": "மேற்கு",
+      "votes": 27
+    },
+    {
+      "id": 10,
+      "districtNameTa": "<வருவாய் மாவட்டம் பெயர்> <சட்டமன்ற தொகுதி பெயர்>",
+      "districtNameEn": "<Revenue District Name> <Assembly Constituency Name>",
+      "subdivisionName": "நடுவண் ",
+      "votes": 29
+    }
+  ]
+}
