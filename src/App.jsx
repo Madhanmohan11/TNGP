@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="bg-gray-100 min-h-screen p-4 relative overflow-x-hidden">
 {/*       <Header lang={lang} /> */}
-      <LanguageToggleButton lang={lang} onToggle={handleLanguageToggle} />
+{/*       <LanguageToggleButton lang={lang} onToggle={handleLanguageToggle} /> */}
 {/*       <Table_1 lang={lang} />
       <Table_2 lang={lang} />
       <Table_3 lang={lang} />
